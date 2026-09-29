@@ -5,8 +5,8 @@
 </p>
 <p align="center">
 <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.behance.net/YOUR-ID"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance"/></a>
+<a href="https://www.linkedin.com/in/iamhemavarshinij/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.behance.net/gallery/204023151/PIAX-Case-Study"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="mailto:hemavarshinij07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 <hr>
