@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hemavarshini Jayaraman</h1>
 <p align="center">
 <b>Data Analyst | Business Analyst | SQL | Power BI | Python</b><br>
-<i>B.Tech. AI & Data Science (2023 to 2027) | National Finalist, Young Indians Future 5.0 & 6.0</i>
+<i>B.Tech. AI & Data Science (2023 - 2027) | National Finalist, Young Indians Future 5.0 & 6.0</i>
 </p>
 <p align="center">
 <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -74,8 +74,9 @@
 <h2>🏆 Achievements</h2>
 <ul>
 <li>National Finalist, Young Indians Future 6.0 (2026) and Future 5.0 (2025)</li>
-<li>1st Place, Chapter Level and SRTN Regional Round</li>
-<li>Guest Speaker, Indian Data Club</li>
+<li>1st Place, Chapter Level and SRTN Regional Round (2026, 2025)</li>
+<li>SIH Internal Hackathon - 2026, 2025</li>
+<li>Guest Speaker, Indian Data Club - From Concept to Stage</li>
 <li>Chief Guest and Key Speaker, Young Indians Climate Vertical Week 2025</li>
 </ul>
 <hr>
