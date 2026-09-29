@@ -68,6 +68,7 @@
 <ul>
 <li><b>Hotel Booking Analysis Dashboard:</b> SQL and Python cleaning plus an interactive Power BI dashboard.</li>
 <li><b>PIAX Life Data Research & Business Case Study:</b> survey design, segmentation and investor-facing decks.</li>
+<li><b>A/B Testing Analysis and Product Feature Analysis</li> 
 <li><b>Supervised Machine Learning Models:</b> classification and regression with Pandas and Scikit-learn.</li>
 </ul>
 <hr>
@@ -75,6 +76,7 @@
 <ul>
 <li>National Finalist, Young Indians Future 6.0 (2026) and Future 5.0 (2025)</li>
 <li>1st Place, Chapter Level and SRTN Regional Round (2026, 2025)</li>
+<li></li>
 <li>SIH Internal Hackathon - 2026, 2025</li>
 <li>Guest Speaker, Indian Data Club - From Concept to Stage</li>
 <li>Chief Guest and Key Speaker, Young Indians Climate Vertical Week 2025</li>
