@@ -76,7 +76,6 @@
 <ul>
 <li>National Finalist, Young Indians Future 6.0 (2026) and Future 5.0 (2025)</li>
 <li>1st Place, Chapter Level and SRTN Regional Round (2026, 2025)</li>
-<li></li>
 <li>SIH Internal Hackathon - 2026, 2025</li>
 <li>Guest Speaker, Indian Data Club - From Concept to Stage</li>
 <li>Chief Guest and Key Speaker, Young Indians Climate Vertical Week 2025</li>
